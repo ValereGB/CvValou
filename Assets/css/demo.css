@@ -1,0 +1,20 @@
+body {
+    font-family: Comic Sans MS;
+
+}
+
+img {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+ul {
+    list-style-position: inside;
+    text-align: center;
+}
+
+h2 {
+    text-decoration: underline;
+    text-decoration-color: red;
+}
